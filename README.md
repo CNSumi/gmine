@@ -1,0 +1,2 @@
+# gmine
+gem miner
